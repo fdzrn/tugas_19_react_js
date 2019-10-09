@@ -1,0 +1,25 @@
+{
+  "karyawan": [
+    {
+      "id": 1557298963816,
+      "nama_karyawan": "putra agung",
+      "jabatan": "Security",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "12 Desember 1991"
+    },
+    {
+      "id": 1570629366655,
+      "nama_karyawan": "gerysena",
+      "jabatan": "Marketing",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "31 Januari 1995"
+    },
+    {
+      "id": 1570629381730,
+      "nama_karyawan": "satria",
+      "jabatan": "Marketing",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "12 Desember 1991"
+    }
+  ]
+}
